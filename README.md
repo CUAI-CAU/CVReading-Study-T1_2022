@@ -7,4 +7,4 @@
 |:-:|-|:-:|:-:|
 |김민규|[Big Transfer(BiT) - General Visual Representation Learning](Papers/Big_Transfer(BiT)-General_Visual_Representation_Learning.pdf)| -|22.03.22|
 |김지욱 &nbsp;|[Niemeyer GIRAFFE Representing Scenes As Compositional Generative Neural Feature Fields](Papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields.pdf)|-|22.03.22|
-|이하윤|[Grad-CAM : Visual Explanations from Deep Networks via Gradient-based Localization](Papers/Grad-CAM-Visual_Explanations_from_Deep_Networks_via_Gradient-based_Localization.pdf) |[Presentation](Study_Presentation/Grad-CAM-Visual_Explanations_from_Deep_Networks_via_Gradient-based_Localization.pdf)|22.03.22|
+|이하윤|[Grad-CAM : Visual Explanations from Deep Networks via Gradient-based Localization](Papers/Grad-CAM-Visual_Explanations_from_Deep_Networks_via_Gradient-based_Localization.pdf) |[PDF](Study_Presentation/Grad-CAM-Visual_Explanations_from_Deep_Networks_via_Gradient-based_Localization.pdf)|22.03.22|
