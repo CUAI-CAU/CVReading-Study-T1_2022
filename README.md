@@ -1,6 +1,11 @@
 # CVReading-Study-T1_2022
 2022년 CUAI 5기 CV 논문 리딩 스터디 1팀 Repository입니다.
 
+## Members
+* 김민규
+* 김지욱
+* 이하윤
+
 ## Reading Papers
 
 |이름|논문|발표 자료|발표일|
